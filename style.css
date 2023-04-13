@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+.change{
+    background-color: blueviolet;
+    background-image:" C:\Users\MAHE\Downloads\web develoment\Project1\image.jpg";
+    /* list-style: none; */
+    color: red ;
+    
+}
+.text{
+    /*display:flex;
+     padding: 20px; */
+    list-style: none;
+    justify-content:right;
+    display:flex;
+    padding: 1px;
+    background-image:" C:\Users\MAHE\Downloads\web develoment\Project1\image.jpg";
+    /*border-color: black;*/
+}
+
+.list{
+    padding: 10px;
+    color: bisque;
+    /*justify-content:end;*/
+
+}
+.mj:hover{
+    text-decoration: none;
+    color: red ;
+    justify-content:right;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.design{
+     font-family: 'Libre Baskerville', serif;    
+     justify-content: left;
+     display: flex;
+}
