@@ -14,5 +14,7 @@ window .addEventListener("load",async ()=>{
 })
 let imgtag=document.createElement("img");
 imgtag.src="http://image.tmdb.org/t/p/w500/3GrRgt6CiLIUXUtoktcv1g2iwT5.jpg" ;
+imgtag.width=150;
+imgtag.height=200;
 let posterContainer=document.querySelector(".poster-container");
 posterContainer.appendChild(imgtag);
